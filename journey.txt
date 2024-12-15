@@ -1,0 +1,2 @@
+Starting my Git journey
+Initial commit: Added journey.txt with content
